@@ -1,6 +1,3 @@
-*{
-  overflow-x: hidden;
-}
 #header{
   text-align: center;
   font-size: 38px;
@@ -133,11 +130,13 @@ section {
   padding: 100px 0;
 }
 
+
 body {
   font-family: "Roboto";
   font-size: 17px;
   font-weight: 400;
   background-color: #eee;
+  overflow-x: hidden;
 }
 
 h1 {
